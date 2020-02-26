@@ -1,0 +1,277 @@
+[
+  {
+    "name": "thunderstorm with light rain",
+    "nameJp": "小雨のち雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm with rain",
+    "nameJp": "雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm with heavy rain",
+    "nameJp": "大雨のち雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "light thunderstorm",
+    "nameJp": "雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm",
+    "nameJp": "雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "heavy thunderstorm",
+    "nameJp": "激しい雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "ragged thunderstorm",
+    "nameJp": "雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm with light drizzle",
+    "nameJp": "霧雨のち雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm with drizzle",
+    "nameJp": "霧雨のち雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "thunderstorm with heavy drizzle",
+    "nameJp": "激しい霧雨のち雷雨",
+    "image": "thunderstorm"
+  },
+  {
+    "name": "light intensity drizzle",
+    "nameJp": "霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "drizzle",
+    "nameJp": "霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "heavy intensity drizzle",
+    "nameJp": "激しい雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "light intensity drizzle rain",
+    "nameJp": "激しい雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "drizzle rain",
+    "nameJp": "霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "heavy intensity drizzle rain",
+    "nameJp": "激しい霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "shower rain and drizzle",
+    "nameJp": "にわか雨のち霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "heavy shower rain and drizzle",
+    "nameJp": "にわか雨のち霧雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "shower drizzle",
+    "nameJp": "にわか雨",
+    "image": "drizzle"
+  },
+  {
+    "name": "light rain",
+    "nameJp": "小雨",
+    "image": "rain"
+  },
+  {
+    "name": "moderate rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "heavy intensity rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "very heavy rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "extreme rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "freezing rain",
+    "nameJp": "にわか雨",
+    "image": "rain"
+  },
+  {
+    "name": "light intensity shower rain",
+    "nameJp": "にわか雨",
+    "image": "rain"
+  },
+  {
+    "name": "shower rain",
+    "nameJp": "にわか雨",
+    "image": "rain"
+  },
+  {
+    "name": "heavy intensity shower rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "ragged shower rain",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "light snow",
+    "nameJp": "雪",
+    "image": "snow"
+  },
+  {
+    "name": "Snow",
+    "nameJp": "雪",
+    "image": "snow"
+  },
+  {
+    "name": "Heavy snow",
+    "nameJp": "大雪",
+    "image": "snow"
+  },
+  {
+    "name": "Sleet",
+    "nameJp": "みぞれ",
+    "image": "snow"
+  },
+  {
+    "name": "Light shower sleet",
+    "nameJp": "みぞれ",
+    "image": "snow"
+  },
+  {
+    "name": "Shower sleet",
+    "nameJp": "みぞれ",
+    "image": "snow"
+  },
+  {
+    "name": "Light rain and snow",
+    "nameJp": "雨のち雪",
+    "image": "snow"
+  },
+  {
+    "name": "雨のち雪",
+    "nameJp": "",
+    "image": "snow"
+  },
+  {
+    "name": "Light shower snow",
+    "nameJp": "雪",
+    "image": "snow"
+  },
+  {
+    "name": "Shower snow",
+    "nameJp": "雪",
+    "image": "snow"
+  },
+  {
+    "name": "Heavy shower snow",
+    "nameJp": "雪",
+    "image": "snow"
+  },
+  {
+    "name": "mist",
+    "nameJp": "靄",
+    "image": "drizzle"
+  },
+  {
+    "name": "Smoke",
+    "nameJp": "靄",
+    "image": "drizzle"
+  },
+  {
+    "name": "Haze",
+    "nameJp": "靄",
+    "image": "drizzle"
+  },
+  {
+    "name": "sand/ dust whirls",
+    "nameJp": "砂ほこり",
+    "image": "drizzle"
+  },
+  {
+    "name": "fog",
+    "nameJp": "霧",
+    "image": "drizzle"
+  },
+  {
+    "name": "sand",
+    "nameJp": "砂",
+    "image": "drizzle"
+  },
+  {
+    "name": "dust",
+    "nameJp": "ほこり",
+    "image": "drizzle"
+  },
+  {
+    "name": "volcanic ash",
+    "nameJp": "火山灰",
+    "image": "drizzle"
+  },
+  {
+    "name": "squalls",
+    "nameJp": "雨",
+    "image": "rain"
+  },
+  {
+    "name": "tornado",
+    "nameJp": "竜巻",
+    "image": "drizzle"
+  },
+  {
+    "name": "clear sky",
+    "nameJp": "晴れ",
+    "image": "sunny"
+  },
+  {
+    "name": "few clouds",
+    "nameJp": "曇り",
+    "image": "cloudy"
+  },
+  {
+    "name": "scattered clouds",
+    "nameJp": "曇り",
+    "image": "cloudy"
+  },
+  {
+    "name": "broken clouds",
+    "nameJp": "曇り",
+    "image": "cloudy"
+  },
+  {
+    "name": "overcast clouds",
+    "nameJp": "曇り",
+    "image": "cloudy"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "clear-day",
+    "nameJp": "晴れ",
+    "icon": "img/sunny.png"
+  },
+  {
+    "name": "clear-night",
+    "nameJp": "晴れ",
+    "icon": "img/sunny.png"
+  },
+  {
+    "name": "rain",
+    "nameJp": "雨",
+    "icon": "img/rain.png"
+  },
+  {
+    "name": "snow",
+    "nameJp": "雪",
+    "icon": "img/snow.png"
+  },
+  {
+    "name": "sleet",
+    "nameJp": "みぞれ",
+    "icon": "img/snow.png"
+  },
+  {
+    "name": "wind",
+    "nameJp": "風",
+    "icon": "img/cloudy.png"
+  },
+  {
+    "name": "fog",
+    "nameJp": "霧",
+    "icon": "img/cloudy.png"
+  },
+  {
+    "name": "cloudy",
+    "nameJp": "曇り",
+    "icon": "img/cloudy.png"
+  },
+  {
+    "name": "partly-cloudy-day",
+    "nameJp": "曇り",
+    "icon": "img/cloudy.png"
+  },
+  {
+    "name": "partly-cloudy-night",
+    "nameJp": "曇り",
+    "icon": "img/cloudy.png"
+  }
+]
