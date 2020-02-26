@@ -1,0 +1,23 @@
+.blur {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 137px;
+  height: 49px;
+  background: transparent;
+  backdrop-filter: blur(15px);
+  --webkit-backdrop-filter: blur(15px);
+  background-color: rgba(0, 0, 0, 0.08);
+  border-radius: 50px;
+  &__text {
+    color: $color-white;
+    letter-spacing: .05em;
+    &.city {
+      font-size: 1.563em;
+    }
+    &.temp {
+      font-size: 1.25em;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+// screensize
+$sm: 375;
+$md: 640;
+$lg: 1024;
+$xl: 1280;
+$breakpoint: 768;
+
+// fontfamily
+$fontfamily: 'Roboto', -apple-system, "Helvetica Neue", "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
+$font-family-en:  'Josefin Sans', sans-serif;
+$font-family-jp: 'M PLUS Rounded 1c', sans-serif;
+
+// z-map
+$z-map: (
+  header,
+  footer,
+  popup-bg,
+popup
+);
+
+//color
+$color-white: #fff;
+$color-day: #848DFF;
+$color-border: #BAC0CB;
+$color-black: #000;

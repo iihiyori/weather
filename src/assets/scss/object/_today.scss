@@ -1,0 +1,8 @@
+.today {
+  padding-top: 10px;
+  &-weather {
+    display: flex;
+    margin: 0 10px;
+    overflow: scroll;
+  }
+}

@@ -1,0 +1,51 @@
+.temperature {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 390px;
+  background-color: rgba($color-white,.2);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode:lighten;
+  &.thunderstorm {
+    background-image: url("/img/bg-thunderstorm.jpg");
+  }
+  &.drizzle {
+    background-image: url("/img/bg-drizzle.jpg");
+  }
+  &.rain {
+    background-image: url("/img/bg-rain.jpg");
+  }
+  &.snow {
+    background-image: url("/img/bg-snow.jpg");
+  }
+  &.sunny {
+    background-image: url("/img/bg-sunny.jpg");
+  }
+  &.cloudy {
+    background-image: url("/img/bg-cloudy.jpg");
+  }
+  &:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 170px;
+    background: linear-gradient(to top,rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.39) 66.94%, rgba(0, 0, 0, 0.43) 100%);
+  }
+  &__content {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    display: inline-block;
+    transform: translate(-50%,-65%);
+  }
+  &__num {
+    display: inline-block;
+    padding: 5px 5px 5px 20px;
+    font-size: 6.5em;
+    font-weight: 300;
+    color: $color-white;
+    font-family: $font-family-en;
+    letter-spacing: .05em;
+  }
+}

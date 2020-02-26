@@ -1,0 +1,28 @@
+.weather {
+  &-item {
+    display: inline-block;
+    padding: 15px 10px;
+    font-family: $font-family-en;
+    font-weight: 300;
+    &:first-child {
+      padding-left: 0;
+    }
+    &:last-child {
+      padding-right: 0;
+    }
+    &__time {
+
+    }
+    &__temp {
+
+    }
+    &__img {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 5px auto;
+      max-width: 50px;
+      max-height: 50px;
+    }
+  }
+}
